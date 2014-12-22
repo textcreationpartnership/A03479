@@ -37,11 +37,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A NEEDEFVLL,
-new, and necessarie treatise
-of Chyrurgerie, briefly comprehending
-the generall and
-par
+
 1. The Contentes.
 
 1. To the right worshipfull
